@@ -1,0 +1,3 @@
+.build/
+ClaudeTokenTracker.app/Contents/MacOS/
+.swiftpm/
